@@ -13,7 +13,6 @@ The **Animal Intrusion Detection and Repellent System** is a project that aims t
 - [Object Detection](#object-detection)
 - [Messaging](#messaging)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Introduction
 
@@ -63,8 +62,5 @@ The Twilio API integration enables the system to send SMS alerts or emails to th
 
 Contributions to this project are welcome! If you have suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize and enhance this README to better suit your project's specifics and your personal style. Good luck with your Animal Intrusion Detection and Repellent System!
