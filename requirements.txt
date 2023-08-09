@@ -1,0 +1,4 @@
+opencv-python==4.5.3
+numpy==1.21.1
+tensorflow-lite==2.5.0
+twilio==6.63.0
