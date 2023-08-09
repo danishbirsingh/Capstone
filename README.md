@@ -40,12 +40,12 @@ Unwanted animal intrusions can cause damage to property, crops, and gardens. The
 1. Clone this repository to your Raspberry Pi.
 2. Install the required Python packages by running: `pip install -r requirements.txt`.
 3. Set up your Twilio account and obtain API credentials.
-4. Configure the system settings in the `config.py` file.
+4. Configure the system settings in the `config` file.
 5. Connect the Pi Camera module and other hardware components.
 
 ## Usage
 
-1. Run the main script: `python main.py`.
+1. Run the main script: `complete.py`.
 2. The system will capture camera feed and perform real-time animal detection.
 3. If an animal is detected, the repellent mechanism will be activated.
 4. You will receive a notification via SMS or email if configured.
